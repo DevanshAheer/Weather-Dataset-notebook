@@ -1,1 +1,1 @@
-# Diabetics_Prediction_model
+# Major_Project
